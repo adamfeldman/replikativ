@@ -7,7 +7,7 @@
 # Roadmap (suggestions)
 
 ## 0.3.0
-- Investigate JS side integration of http://y-js.org/
+- Investigate JS side integration of http://y-js.org/ or https://github.com/automerge/automerge
 - Investigate integration with similar systems, eg. IPFS pubsub 
 - Split middleware from replicated datatype implementations
 - Improve network IO library kabel (Android support) [DONE]
